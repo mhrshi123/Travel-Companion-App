@@ -34,11 +34,14 @@ git clone https://github.com/your-username/travel_manager.git
 cd travel_manager
 flutter pub get
 flutter run
+```
 
 🙌 Contributing
 Pull requests are welcome! If you’d like to contribute, fork the repo and use a feature branch.
 
+```bash
 git checkout -b feature/your-feature-name
+```
 
 Made with 💙 in Flutter
 
