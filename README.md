@@ -1,4 +1,4 @@
-# 🌍 Travel Manager App
+# 🌍 Travel Companion App
 
 A sleek, modern travel management mobile app built with **Flutter** and **SQLite**, designed to help users explore, save, and book hotels across multiple destinations.
 
