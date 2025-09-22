@@ -42,6 +42,17 @@ Pull requests are welcome! If you’d like to contribute, fork the repo and use 
 ```bash
 git checkout -b feature/your-feature-name
 ```
+<img width="436" height="939" alt="image" src="https://github.com/user-attachments/assets/f9c4bd0d-dd1f-4ddf-96d6-00305e190065" />
+<img width="419" height="939" alt="image" src="https://github.com/user-attachments/assets/cb69974d-2c45-44d8-89db-a420615ea0b8" />
+<img width="421" height="910" alt="image" src="https://github.com/user-attachments/assets/2c152b27-3702-4be8-aa77-f7b3e2faf982" />
+<img width="425" height="939" alt="image" src="https://github.com/user-attachments/assets/2e584079-b78d-4283-87c3-e37b5f392e1e" />
+<img width="394" height="884" alt="image" src="https://github.com/user-attachments/assets/f3431eef-acac-48a8-9cbc-c6d62565534c" />
+<img width="404" height="888" alt="image" src="https://github.com/user-attachments/assets/e17843f5-63d4-45ec-b8fc-ec5bb650506a" />
+<img width="425" height="939" alt="image" src="https://github.com/user-attachments/assets/16a1f4ad-af39-4929-89ba-cf2c20e7c5ed" />
+<img width="398" height="883" alt="image" src="https://github.com/user-attachments/assets/4908ea0b-2ed2-4e48-86cd-cfb82cd88400" />
+
+<img width="409" height="888" alt="image" src="https://github.com/user-attachments/assets/98854b4b-7b9a-4c6e-b931-b4cf7ab43fdf" />
+
 
 Made with 💙 in Flutter
 
